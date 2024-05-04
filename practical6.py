@@ -1,3 +1,6 @@
+# By Raj Pradeep
+"""6. Write a Program to check if a given graph is a complete graph. Represent the 
+graph using the Adjacency Matrix representation."""
 class Graph:
     def __init__(self, vertices):
         self.vertices = vertices

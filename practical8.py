@@ -1,3 +1,5 @@
+# By Raj Pradeep
+"""8. Write a Program to accept a directed graph G and compute the in-degree and out-degree of each vertex."""
 class DirectedGraph:
     def __init__(self, vertices):
         self.vertices = vertices

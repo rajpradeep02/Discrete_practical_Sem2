@@ -1,3 +1,7 @@
+
+"""2. Create a class RELATION, use Matrix notation to represent a relation. Include
+member functions to check if the relation is Reflexive, Symmetric, Anti-symmetric, 
+Transitive. Using these functions check whether the given relation is: Equivalence or Partial Order relation or None"""
 from numpy import array 
 class RELATION:
     def __init__(self, matrix):

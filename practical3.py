@@ -1,3 +1,6 @@
+# By Raj Pradeep
+"""3. Write a Program that generates all the permutations of a given set of Set, with or 
+without repetition."""
 from itertools import permutations,product
 def generate_permutations(Set, repetition):
  if repetition:
